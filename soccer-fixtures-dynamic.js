@@ -186,6 +186,10 @@ function resetPage() {
     while (nodeList.length > 0) {
         nodeList[0].remove();
     }
+
+    homeTeamDropdown.selectedIndex = 0;
+    awayTeamDropdown.selectedIndex = 0;
+    chooseSeason.value = '';
 }
 
 // Show Loader
