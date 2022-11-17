@@ -1,2 +1,2 @@
-# leobeta92.github.io
-Displaying working examples of apps I have designed.
+# soccer-fixtures
+Learning project - develop an application that pulls historic fixture data from Livescore API.
